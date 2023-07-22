@@ -9,6 +9,8 @@ My name is Vadym and my goal is to be a programmer.
 📫 How to reach me: [All links here](https://vaydy.github.io/)
 
 🎃 Hobby: like football & play with da homies.
+
+<br/>
 </div>
 
 
