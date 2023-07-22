@@ -15,7 +15,7 @@
 
 📫 Check this: [Portfolio-website](https://vaydy.github.io/)
 
-🎃 Hobby: like football & play with da homies.
+🎃 Hobby: like football & play video games with da homies.
 
 <br/>
 </div>
