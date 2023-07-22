@@ -16,6 +16,8 @@ My name is Vadym and my goal is to be a programmer.
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaydy&langs_count=6)
+<img width=390 src="https://streak-stats.demolab.com/?user=Vaydy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+
+
 </br>
