@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on creating website with my projects.
 
-📖 I’m currently learning html/css/js
+📖 I’m currently learning Node.js
 
 📫 How to reach me: [All links here](https://vaydy.github.io/)
 
@@ -24,9 +24,10 @@
 <div align="center">
      <a href="mailto:moskvavadym@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-
+    </a>
+    <a href"https://www.instagram.com/vaydyvibes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    </a>
 
 
 
