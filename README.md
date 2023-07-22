@@ -19,4 +19,4 @@ My name is Vadym and my goal is to be a programmer.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaydy&langs_count=6)
