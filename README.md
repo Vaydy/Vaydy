@@ -16,6 +16,12 @@ My name is Vadym and my goal is to be a programmer.
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-	
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaydy&langs_count=6)
 </br>
