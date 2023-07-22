@@ -13,8 +13,6 @@
 
 📖 I’m currently learning Node.js
 
-📫 Check this: [Portfolio-website](https://vaydy.github.io/)
-
 🎃 Hobby: like football & play video games with da homies.
 
 <br/>
@@ -31,6 +29,9 @@
     <a href="https://stackoverflow.com/users/22173418/avksom">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=red&style=for-the-badge" />
     </a>
+    <a href="https://vaydy.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
 
 
 </div>
