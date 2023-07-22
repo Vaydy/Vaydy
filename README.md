@@ -4,12 +4,7 @@ My name is Vadym and my goal is to be a programmer.
 
 - 🔭 I’m currently working on creating website with my projects.
 - 📖 I’m currently learning html/css/js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Instagram](https://www.instagram.com/vaydyvibes/)
-
-- 😄 Pronouns: ...
+- 📫 How to reach me: [All links here](https://vaydy.github.io/)
 - ⚡ Fun fact: i like football.
 
 
