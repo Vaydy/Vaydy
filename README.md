@@ -58,7 +58,7 @@
 
 <h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! </h2>
 <div align="center">
-<img src="https://media.tenor.com/lgr1do85_xAAAAAC/haibane-renmei-reki.gif">
+<img src="https://media.tenor.com/qRFgrVQGgYMAAAAC/misha-uchinomaidgauzasugiru.gif">
 </div>
 <hr>
 </div>
