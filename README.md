@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaydy.vaydy" />
 
 <h1 align="center">
-    <img src="https://tenor.com/uk/view/hi-hello-greet-smile-wave-gif-17222872.gif" />
+    <img src="https://tenor.com/uk/view/new-game-mozuku-anime-hello-hi-gif-17250999.gif" />
 </h1>
 
 <h3 align="center">My name is Vadym and my goal is to be a programmer.</h3>
