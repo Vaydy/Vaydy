@@ -9,11 +9,10 @@
 <br/>
 <div align="center">
 
-🔭 I’m currently working on creating website with my projects.
+🔭 I’m currently working on creating portfolio-website.
 
-📖 I’m currently learning Node.js
+📖 I’m currently learning Node.js ,Html/CSS/JS
 
-🎃 Hobby: like football & play video games with da homies.
 
 <br/>
 </div>
@@ -35,6 +34,16 @@
 
 
 </div>
+<hr/>
+ 
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascripta" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git" />
+</div>
+
+<br/>
 <hr/>
 
 <h2 align="center"> 🔥Stats🔥 </h2>
