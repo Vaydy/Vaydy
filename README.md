@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,py,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,cpp,neovim" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,neovim" />
 </div>
 
 <br/>
