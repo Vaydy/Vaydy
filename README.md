@@ -8,13 +8,11 @@
 
 <br/>
 <div align="center">
-
+<img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
 🔭 I’m currently working on creating portfolio-website.
 
 📖 I’m currently learning Html/CSS/JS,React JS
-<div align="center">
-<img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
-</div>
+
 
 <br/>
 </div>
