@@ -16,8 +16,13 @@
 
 <br/>
 </div>
+<hr/>
 
+<h1 align="center">
+    <img src="https://tenor.com/uk/view/himouto-umaru-chan-smile-happy-anime-gif-9869247.gif" />
+</h1>
 
+<hd align="center"> 🫠 Contact me 🫠: </hd>
 <div align="center">
     <a href="mailto:moskvavadym@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
