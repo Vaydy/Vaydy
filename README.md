@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on creating portfolio-website.
 
-📖 I’m currently learning Node.js ,Html/CSS/JS,React JS
+📖 I’m currently learning Html/CSS/JS,React JS
 
 
 <br/>
