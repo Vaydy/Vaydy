@@ -12,13 +12,15 @@
 🔭 I’m currently working on creating portfolio-website.
 
 📖 I’m currently learning Html/CSS/JS,React JS
-
+<div align="center">
+<img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
+</div>
 
 <br/>
 </div>
 <hr/>
 
-<h2 align="center"> 🫠 Contact me 🫠: </h2>
+<h2 align="center"> 🫶 Contact me 🫶: </h2>
 <div align="center">
 <img src="https://tenor.com/uk/view/himouto-umaru-chan-smile-happy-anime-gif-9869247.gif" />
 </div>
