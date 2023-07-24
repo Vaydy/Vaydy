@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">My name is Vadym and my goal is to be a programmer.</h3>
-<div align="right">
+<div align="center">
 <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" />
 </div>
 <br/>
