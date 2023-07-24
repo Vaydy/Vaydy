@@ -8,9 +8,10 @@
 <div align="center">
 <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
 </div>
-🔭 I’m currently working on creating portfolio-website.
-
-📖 I’m currently learning Html/CSS/JS,React JS
+<li 🔭 I’m currently working on creating portfolio-website. </li>
+<li 📖 I’m currently learning Html/CSS/JS,React JS </li>
+<br><br><br>
+</div>
 
 
 
