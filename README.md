@@ -5,17 +5,15 @@
 </h1>
 
 <h3 align="center">My name is Vadym and my goal is to be a programmer.</h3>
-
-<br/>
 <div align="center">
 <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
+</div>
 🔭 I’m currently working on creating portfolio-website.
 
 📖 I’m currently learning Html/CSS/JS,React JS
 
 
-<br/>
-</div>
+
 <hr/>
 
 <h2 align="center"> 🫶 Contact me 🫶: </h2>
