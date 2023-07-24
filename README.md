@@ -4,7 +4,7 @@
     <img src="https://tenor.com/uk/view/new-game-mozuku-anime-hello-hi-gif-17250999.gif" />
 </h1>
 
-<h3 align="center">My name is Vadym and my goal is to be a programmer.</h3>
+<h2 align="center">My name is Vadym and my goal is to be a programmer.</h2>
 <div align="center">
 <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" />
 </div>
