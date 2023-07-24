@@ -4,14 +4,37 @@
     <img src="https://tenor.com/uk/view/new-game-mozuku-anime-hello-hi-gif-17250999.gif" />
 </h1>
 
-<h3 align="center">My name is Vadym and my goal is to be a programmer.</h3>
-<div align="center">
-<img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" align="right">
-</div>
-<li 🔭 I’m currently working on creating portfolio-website. </li>
-<li 📖 I’m currently learning Html/CSS/JS,React JS </li>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Sarah</li>
+<li>
+<b>Fursona:</b> Snow Fox
+</li>
+<li>
+<b>Loves:</b> anime, osu, rhythm games
+</li>
+<li>
+<b>Gender:</b> she/her/Female 🏳️‍⚧️
+</li>
+<li>
+<b>Git Server</b> https://git.thicc-thighs.de
+</li>
+<li>
+<b>LastFM:</b> https://scrobble.egirldev.co.uk
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+</li>
+<li>
+<b>Working @:</b> Intave Anticheat
+</li>
 <br><br><br>
 </div>
+<div>
 
 
 
