@@ -67,7 +67,7 @@
 
 
 <h2 align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B4%F0%9D%93%BC+%F0%9D%93%AF%F0%9D%93%B8%F0%9D%93%BB+%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&width=500&height=70&lines=%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B4%F0%9D%93%BC+%F0%9D%93%AF%F0%9D%93%B8%F0%9D%93%BB+%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0!">
 </h2>
 <div align="center">
 <img src="https://media.tenor.com/qRFgrVQGgYMAAAAC/misha-uchinomaidgauzasugiru.gif">
