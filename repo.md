@@ -1,4 +1,4 @@
-# The repository which I used for the README 
+# The repository which I used for the README 😎
 [Foundation](https://github.com/salesp07)\
 [Badges 4](https://github.com/alexandresanlim/Badges4-README.md-Profile)\
 [Anime Gifs](https://github.com/PrincessAkira/PrincessAkira)\
