@@ -6,4 +6,4 @@
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)\
 [Visitor Badge](https://github.com/hehuapei/visitor-badge)\
 [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
-[Another profile](https://github.com/PluckyPrecious/PluckyPrecious)\
+[Another profile](https://github.com/PluckyPrecious/PluckyPrecious)
