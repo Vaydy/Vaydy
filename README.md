@@ -49,7 +49,7 @@
 <h2 align="center">Languages & Tools 👨‍💻 🛠: </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,py,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,nodejs,github,py,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,git,neovim" />
 </div>
 
